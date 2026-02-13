@@ -12,6 +12,7 @@ import {
 
 /**
  * UNFRAME Artist Unit (UAU) - Core Data
+ * Project: unframe-uau
  */
 const ARTISTS = [
   {
